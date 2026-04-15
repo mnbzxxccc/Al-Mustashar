@@ -1,0 +1,11 @@
+{
+  "Banks": ["BWAI", "BNAI", "BAAI", "BAIB", "BAME", "BAMS", "BANS", "BASH", "BBAY", "BBOB", "BCIH", "BCOI", "BDFD", "BDSI", "BEFI", "BELF", "BERI", "BGUC", "BHAM", "BIBI", "BIDB", "BIIB", "BIME", "BINI", "BINT", "BJAB", "BKUI", "BMUI", "BNOR", "BQAB", "BQUR", "BRTB", "BSAN", "BSUC", "BTIB", "BTRB", "BUND", "BUOT", "BWOR", "BZII", "BNOI", "BBII"],
+  "Insurance": ["NHAM", "NDSA", "NAHF", "NGIR", "NAME", "NITU", "NAIB"],
+  "Investment": ["VAMF", "VBAT", "VKHF", "VMES", "VWIF", "VZAF", "VAYF", "VQUF", "VKHA"],
+  "Services": ["SIGT", "SBAG", "SIBD", "SILT", "SKTA", "SMOF", "SNUC", "SMRI", "SBPT", "SAEI", "SBMC", "SAMT", "SLAM", "SKAM", "SMAN"],
+  "Industry": ["IKLV", "IBPM", "IELI", "IFCM", "IHLI", "IIDP", "IIEW", "IITC", "IMAP", "IMCI", "IMCM", "IMIB", "IRMC", "ITLI", "IKHC", "IBSD", "INCP", "IMOS", "IHFI", "IICM", "IKFP", "IIBC", "IMFI", "ISTR", "IMPI"],
+  "Hotels and Tourism": ["HBAG", "HBAY", "HISH", "HKAR", "HMAN", "HNTI", "HSAD", "HTVM", "HPAL", "HASH"],
+  "Agriculture": ["AAHP", "AIPM", "AIRP", "AMAP", "AMEF", "AREB", "AISP", "ABAP", "ATHP"],
+  "Money Transfer": ["MTUA", "MTNI", "MTIB", "MTRE"],
+  "Telecom": ["TASC", "TZNI"]
+}
